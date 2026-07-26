@@ -1,0 +1,15 @@
+version: '3.8'
+
+networks:
+  psf-network:
+    external: true
+
+services:
+  app:
+    build: .
+    container_name: psf-app-template
+    restart: always
+    ports:
+      - "8080:80"
+    networks:
+      - psf-network

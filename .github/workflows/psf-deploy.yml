@@ -1,0 +1,28 @@
+name: PSF Platform CI/CD Workflow
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  validate-structure:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Verify Core Directories
+        run: |
+          echo "Verificando estrutura básica do PSF..."
+          test -d scripts || exit 1
+          test -d nginx || exit 1
+          test -d projetos || exit 1
+          test -f docker-compose.psf.yml || exit 1
+          test -f Makefile || exit 1
+
+      - name: Permissions Check
+        run: |
+          chmod +x scripts/*.sh
+          ./scripts/psf.sh help

@@ -1,0 +1,43 @@
+version: '3.8'
+
+networks:
+  psf-network:
+    name: psf-network
+    driver: bridge
+
+volumes:
+  psf-portal-data:
+    name: psf-portal-data
+
+services:
+  nginx-proxy:
+    image: nginx:1.25-alpine
+    container_name: psf-nginx-proxy
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./projetos:/workspace/projetos:ro
+    networks:
+      - psf-network
+    depends_on:
+      - portal
+
+  portal:
+    build:
+      context: ./projetos/portal
+      dockerfile: Dockerfile
+    container_name: psf-portal
+    restart: always
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./projetos:/workspace/projetos:rw
+      - ./projetos/portal/projects.json:/app/projects.json:rw
+    environment:
+      - PORT=8000
+      - NODE_ENV=production
+    networks:
+      - psf-network

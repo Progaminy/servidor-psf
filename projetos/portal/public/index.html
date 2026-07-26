@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>servidor-psf — Portal Central Multi-Projetos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="background-glow"></div>
+
+  <header class="header">
+    <div class="logo-container">
+      <div class="logo-icon">🌐</div>
+      <div>
+        <h1>servidor-psf</h1>
+        <p class="subtitle">Plataforma Universal de Hospedagem & Execution Container Linux</p>
+      </div>
+    </div>
+    <div class="status-pill">
+      <span class="status-dot"></span>
+      <span id="systemStatusText">ONLINE (.psf)</span>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- KPI Dashboard Cards -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <span class="stat-label">Domínio Principal</span>
+        <span class="stat-value text-accent">*.psf</span>
+        <span class="stat-desc">Subdomínios Automáticos</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">Projetos Ativos</span>
+        <span class="stat-value" id="activeCount">0</span>
+        <span class="stat-desc">Containers em Execução</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">Proxy Reverso</span>
+        <span class="stat-value text-green">Nginx</span>
+        <span class="stat-desc">Wildcard Active</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">Sistema Base</span>
+        <span class="stat-value">Ubuntu 22.04</span>
+        <span class="stat-desc">Docker Engine</span>
+      </div>
+    </section>
+
+    <!-- Actions & Toolbar -->
+    <section class="toolbar">
+      <h2>📁 Projetos Hospedados</h2>
+      <button class="btn btn-primary" id="openCreateModalBtn">
+        <span>➕ Novo Projeto .psf</span>
+      </button>
+    </section>
+
+    <!-- Projects Grid -->
+    <section id="projectsGrid" class="projects-grid">
+      <!-- Injetado dinamicamente via app.js -->
+    </section>
+
+  </main>
+
+  <!-- Modal Criar Projeto -->
+  <div id="createModal" class="modal-backdrop hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>🚀 Criar Novo Projeto .psf</h3>
+        <button class="close-btn" id="closeModalBtn">&times;</button>
+      </div>
+      <form id="createProjectForm">
+        <div class="form-group">
+          <label for="projectName">Nome do Subdomínio (ex: loja, blog, api):</label>
+          <input type="text" id="projectName" placeholder="nome-do-projeto" required pattern="^[a-z0-9-]+$">
+          <small>Ficará disponível em <strong>http://&lt;nome&gt;.psf</strong></small>
+        </div>
+
+        <div class="form-group">
+          <label for="projectStack">Stack Tecnológica:</label>
+          <select id="projectStack" required>
+            <option value="node">Node.js (Express)</option>
+            <option value="python">Python (Flask)</option>
+            <option value="php">PHP (Cli Server)</option>
+            <option value="go">Go (Golang)</option>
+            <option value="react">React / Node Web</option>
+            <option value="static">Estático (Nginx)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="projectPort">Porta (3000-9000):</label>
+          <input type="number" id="projectPort" placeholder="Ex: 8081" min="3000" max="9000">
+          <small>Deixe em branco para atribuição automática de porta livre.</small>
+        </div>
+
+        <div class="modal-actions">
+          <button type="button" class="btn btn-secondary" id="cancelModalBtn">Cancelar</button>
+          <button type="submit" class="btn btn-primary">Criar & Iniciar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>servidor-psf &copy; 2026 — Plataforma Universal de Execução em GitHub Codespaces</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
