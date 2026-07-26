@@ -1,0 +1,41 @@
+name: Rodar Servidor PSF no GitHub Actions (Linux Runner)
+
+on:
+  workflow_dispatch: # Permite iniciar manualmente no GitHub com 1 clique
+
+jobs:
+  executar-servidor-linux:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Baixar Código do Repositório
+        uses: actions/checkout@v4
+
+      - name: Dar permissão aos scripts Linux
+        run: |
+          chmod +x scripts/*.sh
+
+      - name: Subir Containers do Servidor-PSF
+        run: |
+          echo "🚀 Iniciando containers no Linux Runner do GitHub..."
+          docker compose -f docker-compose.psf.yml up -d
+          ./scripts/psf.sh status
+
+      - name: Iniciar Aplicação PSF-IAminy
+        run: |
+          echo "🐍 Iniciando PSF-IAminy..."
+          cd projetos/psf-iaminy
+          PYTHONPATH=. python3 -m interface.servidor 8765 &
+          sleep 3
+
+      - name: Expor Servidor Linux no GitHub via Túnel
+        run: |
+          echo "🌐 Gerando link de acesso público do servidor GitHub..."
+          npx -y localtunnel --port 8000 --subdomain centralpsf-portal &
+          npx -y localtunnel --port 8765 --subdomain centralpsf-iaminy &
+          sleep 5
+          echo "----------------------------------------------------"
+          echo "✅ Servidor rodando no Linux do GitHub!"
+          echo "🌐 Portal: https://centralpsf-portal.loca.lt"
+          echo "🌐 PSF-IAminy: https://centralpsf-iaminy.loca.lt"
+          echo "----------------------------------------------------"
