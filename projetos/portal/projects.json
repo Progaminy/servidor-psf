@@ -1,18 +1,10 @@
 [
   {
-    "name": "psf-iaminy",
-    "domain": "psf-iaminy.psf",
+    "name": "iaminy",
+    "domain": "iaminy.psf",
     "stack": "python",
     "port": 8765,
     "status": "ONLINE",
-    "createdAt": "2026-07-26T23:35:00Z"
-  },
-  {
-    "name": "iaminy",
-    "domain": "iaminy.psf",
-    "stack": "static",
-    "port": 80,
-    "status": "ONLINE",
-    "createdAt": "2026-07-27T00:00:00Z"
+    "createdAt": "2026-07-27T01:13:00Z"
   }
 ]
