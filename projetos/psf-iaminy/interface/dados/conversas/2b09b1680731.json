@@ -1,0 +1,40 @@
+{
+  "id": "2b09b1680731",
+  "titulo": "Ensina adição",
+  "criado_em": "2026-07-10T23:43:07.851661+00:00",
+  "mensagens": [
+    {
+      "papel": "aluno",
+      "texto": "ensina adição",
+      "quando": "2026-07-10T23:43:07.852275+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-10T23:43:07.899990+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "mais simples",
+      "quando": "2026-07-11T08:32:10.667378+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Consigo fazer isso, mas preciso de um assunto anterior. Pergunta primeiro sobre um conceito, fórmula, problema ou curiosidade; depois eu simplifico, mostro passos, dou exemplo ou abro o modo cientista.",
+      "quando": "2026-07-11T08:32:10.670746+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "aroz",
+      "quando": "2026-07-11T21:57:53.866101+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-11T21:57:54.038251+00:00"
+    }
+  ],
+  "estado": {
+    "estado_psf": null
+  }
+}

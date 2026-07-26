@@ -1,0 +1,20 @@
+{
+  "id": "604020c0fdcc",
+  "titulo": "Aroz",
+  "criado_em": "2026-07-11T21:58:16.278951+00:00",
+  "mensagens": [
+    {
+      "papel": "aluno",
+      "texto": "aroz",
+      "quando": "2026-07-11T21:58:28.309668+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-11T21:58:28.351117+00:00"
+    }
+  ],
+  "estado": {
+    "estado_psf": null
+  }
+}

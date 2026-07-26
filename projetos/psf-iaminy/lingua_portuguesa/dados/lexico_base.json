@@ -1,0 +1,7267 @@
+[
+  {
+    "lema": "o",
+    "classe": "determinante",
+    "definicoes": [
+      "Artigo definido que individualiza um nome."
+    ],
+    "formas": {
+      "o": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "a": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "os": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "as": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "um",
+    "classe": "determinante",
+    "definicoes": [
+      "Artigo indefinido ou quantificador unitário."
+    ],
+    "formas": {
+      "um": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "uma": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "uns": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "umas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "menino",
+    "classe": "substantivo",
+    "definicoes": [
+      "Criança ou jovem do sexo masculino."
+    ],
+    "formas": {
+      "menino": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "meninos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "menina": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "meninas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "gato",
+    "classe": "substantivo",
+    "definicoes": [
+      "Mamífero felino doméstico."
+    ],
+    "formas": {
+      "gato": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "gatos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "gata": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "gatas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "casa",
+    "classe": "substantivo",
+    "definicoes": [
+      "Edifício destinado a habitação."
+    ],
+    "formas": {
+      "casa": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "casas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "motor",
+    "classe": "substantivo",
+    "definicoes": [
+      "Sistema que produz movimento ou executa um processamento."
+    ],
+    "formas": {
+      "motor": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "motores": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "português",
+    "classe": "substantivo",
+    "definicoes": [
+      "Língua românica usada em Portugal, no Brasil, em Angola, Moçambique e outros países."
+    ],
+    "formas": {
+      "português": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "portugueses": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "portuguesa": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "portuguesas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "português",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Relativo à língua portuguesa ou a Portugal."
+    ],
+    "formas": {
+      "português": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "portugueses": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "portuguesa": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "portuguesas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "espanhol",
+    "classe": "substantivo",
+    "definicoes": [
+      "Relativo à Espanha, ou pessoa natural da Espanha."
+    ],
+    "formas": {
+      "espanhol": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "espanhóis": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "espanhola": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "espanholas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "espanhol",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Relativo à Espanha, ou pessoa natural da Espanha."
+    ],
+    "formas": {
+      "espanhol": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "espanhóis": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "espanhola": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "espanholas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "francês",
+    "classe": "substantivo",
+    "definicoes": [
+      "Relativo à França, ou pessoa natural da França."
+    ],
+    "formas": {
+      "francês": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "franceses": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "francesa": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "francesas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "francês",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Relativo à França, ou pessoa natural da França."
+    ],
+    "formas": {
+      "francês": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "franceses": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "francesa": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "francesas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "língua",
+    "classe": "substantivo",
+    "definicoes": [
+      "Sistema de comunicação formado por sons, palavras, regras e usos sociais."
+    ],
+    "formas": {
+      "língua": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "línguas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "som",
+    "classe": "substantivo",
+    "definicoes": [
+      "Unidade acústica percebida pela audição."
+    ],
+    "formas": {
+      "som": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "sons": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "letra",
+    "classe": "substantivo",
+    "definicoes": [
+      "Sinal gráfico usado para representar sons ou unidades da escrita."
+    ],
+    "formas": {
+      "letra": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "letras": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "palavra",
+    "classe": "substantivo",
+    "definicoes": [
+      "Unidade linguística que combina forma e significado."
+    ],
+    "formas": {
+      "palavra": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "palavras": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "frase",
+    "classe": "substantivo",
+    "definicoes": [
+      "Enunciado com sentido completo num contexto."
+    ],
+    "formas": {
+      "frase": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "frases": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "oração",
+    "classe": "substantivo",
+    "definicoes": [
+      "Unidade sintática organizada em torno de um verbo."
+    ],
+    "formas": {
+      "oração": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "orações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "texto",
+    "classe": "substantivo",
+    "definicoes": [
+      "Conjunto organizado de frases ou enunciados."
+    ],
+    "formas": {
+      "texto": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "textos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "livro",
+    "classe": "substantivo",
+    "definicoes": [
+      "Obra composta por texto organizado em partes."
+    ],
+    "formas": {
+      "livro": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "livros": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "dicionário",
+    "classe": "substantivo",
+    "definicoes": [
+      "Repositório de palavras com informação lexical e significado."
+    ],
+    "formas": {
+      "dicionário": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "dicionários": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "gramática",
+    "classe": "substantivo",
+    "definicoes": [
+      "Conjunto de regras que descrevem a construção de palavras, frases e textos."
+    ],
+    "formas": {
+      "gramática": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "gramáticas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "alfabeto",
+    "classe": "substantivo",
+    "definicoes": [
+      "Conjunto ordenado de letras usadas por uma escrita."
+    ],
+    "formas": {
+      "alfabeto": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "alfabetos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "acento",
+    "classe": "substantivo",
+    "definicoes": [
+      "Sinal gráfico que modifica a leitura ou a tonicidade de uma letra."
+    ],
+    "formas": {
+      "acento": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "acentos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ponto",
+    "classe": "substantivo",
+    "definicoes": [
+      "Sinal de pontuação ou marca gráfica."
+    ],
+    "formas": {
+      "ponto": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "pontos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "significado",
+    "classe": "substantivo",
+    "definicoes": [
+      "Conteúdo semântico associado a uma forma linguística."
+    ],
+    "formas": {
+      "significado": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "significados": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "regra",
+    "classe": "substantivo",
+    "definicoes": [
+      "Critério que orienta ou valida uma construção linguística."
+    ],
+    "formas": {
+      "regra": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "regras": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "aplicação",
+    "classe": "substantivo",
+    "definicoes": [
+      "Uso prático de uma regra, método ou conhecimento."
+    ],
+    "formas": {
+      "aplicação": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "aplicações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "construção",
+    "classe": "substantivo",
+    "definicoes": [
+      "Processo de formar uma estrutura a partir de partes menores."
+    ],
+    "formas": {
+      "construção": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "construções": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "atual",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Relativo ao estado presente de um processo."
+    ],
+    "formas": {
+      "atual": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "atuais": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "natural",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que segue uma ordem espontânea, orgânica ou esperada."
+    ],
+    "formas": {
+      "natural": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "naturais": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "isolado",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Separado dos demais elementos."
+    ],
+    "formas": {
+      "isolado": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "isolados": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "isolada": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "isoladas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "excelente",
+    "classe": "adjetivo",
+    "definicoes": [
+      "De qualidade muito elevada."
+    ],
+    "formas": {
+      "excelente": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "excelentes": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "bonito",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que apresenta beleza ou agrada aos sentidos."
+    ],
+    "formas": {
+      "bonito": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "bonitos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "bonita": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "bonitas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "grande",
+    "classe": "adjetivo",
+    "definicoes": [
+      "De dimensão, intensidade ou importância elevada."
+    ],
+    "formas": {
+      "grande": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "grandes": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "feliz",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que sente ou manifesta felicidade."
+    ],
+    "formas": {
+      "feliz": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "felizes": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "eu",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome pessoal da primeira pessoa do singular."
+    ],
+    "formas": {
+      "eu": {
+        "numero": "singular",
+        "pessoa": 1
+      }
+    }
+  },
+  {
+    "lema": "ele",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome pessoal da terceira pessoa."
+    ],
+    "formas": {
+      "ele": {
+        "genero": "masculino",
+        "numero": "singular",
+        "pessoa": 3
+      },
+      "ela": {
+        "genero": "feminino",
+        "numero": "singular",
+        "pessoa": 3
+      },
+      "eles": {
+        "genero": "masculino",
+        "numero": "plural",
+        "pessoa": 3
+      },
+      "elas": {
+        "genero": "feminino",
+        "numero": "plural",
+        "pessoa": 3
+      }
+    }
+  },
+  {
+    "lema": "nós",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome pessoal da primeira pessoa do plural."
+    ],
+    "formas": {
+      "nós": {
+        "numero": "plural",
+        "pessoa": 1
+      }
+    }
+  },
+  {
+    "lema": "ser",
+    "classe": "verbo",
+    "definicoes": [
+      "Existir ou apresentar determinada característica."
+    ],
+    "formas": {
+      "ser": {
+        "forma": "infinitivo"
+      },
+      "sou": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "é": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "somos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "são": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "fui": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "foi": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "fomos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "foram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "era": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "eras": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "éramos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "eram": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "seria": {
+        "tempo": "futuro do pretérito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "serias": {
+        "tempo": "futuro do pretérito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "seríamos": {
+        "tempo": "futuro do pretérito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "seriam": {
+        "tempo": "futuro do pretérito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "seja": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "sejas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "sejamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "sejam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "sendo": {
+        "tempo": "gerúndio"
+      },
+      "sido": {
+        "tempo": "particípio"
+      }
+    }
+  },
+  {
+    "lema": "comer",
+    "classe": "verbo",
+    "definicoes": [
+      "Ingerir alimento."
+    ],
+    "formas": {
+      "comer": {
+        "forma": "infinitivo"
+      },
+      "como": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "come": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "comemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "comem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "estudar",
+    "classe": "verbo",
+    "definicoes": [
+      "Aplicar atenção à aprendizagem de algo."
+    ],
+    "formas": {
+      "estudar": {
+        "forma": "infinitivo"
+      },
+      "estudo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "estuda": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "estudamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "estudam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "não",
+    "classe": "adverbio",
+    "definicoes": [
+      "Advérbio de negação."
+    ],
+    "formas": {
+      "não": {}
+    }
+  },
+  {
+    "lema": "rapidamente",
+    "classe": "adverbio",
+    "definicoes": [
+      "De modo rápido."
+    ],
+    "formas": {
+      "rapidamente": {}
+    }
+  },
+  {
+    "lema": "de",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que exprime origem, posse, matéria ou relação."
+    ],
+    "formas": {
+      "de": {},
+      "do": {
+        "contracao": "de+o"
+      },
+      "da": {
+        "contracao": "de+a"
+      }
+    }
+  },
+  {
+    "lema": "em",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que frequentemente exprime lugar ou tempo."
+    ],
+    "formas": {
+      "em": {},
+      "no": {
+        "contracao": "em+o"
+      },
+      "na": {
+        "contracao": "em+a"
+      }
+    }
+  },
+  {
+    "lema": "com",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que pode exprimir companhia ou instrumento."
+    ],
+    "formas": {
+      "com": {}
+    }
+  },
+  {
+    "lema": "para",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que pode exprimir destino ou finalidade."
+    ],
+    "formas": {
+      "para": {}
+    }
+  },
+  {
+    "lema": "e",
+    "classe": "conjuncao",
+    "definicoes": [
+      "Conjunção coordenativa aditiva."
+    ],
+    "formas": {
+      "e": {}
+    }
+  },
+  {
+    "lema": "mas",
+    "classe": "conjuncao",
+    "definicoes": [
+      "Conjunção coordenativa adversativa."
+    ],
+    "formas": {
+      "mas": {}
+    }
+  },
+  {
+    "lema": "olá",
+    "classe": "interjeicao",
+    "definicoes": [
+      "Saudação usada ao encontrar alguém."
+    ],
+    "formas": {
+      "olá": {}
+    }
+  },
+  {
+    "lema": "oi",
+    "classe": "interjeicao",
+    "definicoes": [
+      "Saudação informal usada ao encontrar alguém."
+    ],
+    "formas": {
+      "oi": {}
+    }
+  },
+  {
+    "lema": "tchau",
+    "classe": "interjeicao",
+    "definicoes": [
+      "Expressão de despedida informal."
+    ],
+    "formas": {
+      "tchau": {}
+    }
+  },
+  {
+    "lema": "adeus",
+    "classe": "interjeicao",
+    "definicoes": [
+      "Expressão de despedida, geralmente definitiva ou formal."
+    ],
+    "formas": {
+      "adeus": {}
+    }
+  },
+  {
+    "lema": "obrigado",
+    "classe": "interjeicao",
+    "definicoes": [
+      "Expressão de agradecimento."
+    ],
+    "formas": {
+      "obrigado": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "obrigada": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "obrigados": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "obrigadas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "desculpa",
+    "classe": "interjeicao",
+    "definicoes": [
+      "Pedido de perdão ou forma de chamar a atenção com educação."
+    ],
+    "formas": {
+      "desculpa": {}
+    }
+  },
+  {
+    "lema": "parabéns",
+    "classe": "interjeicao",
+    "definicoes": [
+      "Expressão usada para felicitar alguém."
+    ],
+    "formas": {
+      "parabéns": {}
+    }
+  },
+  {
+    "lema": "dois",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 2."
+    ],
+    "formas": {
+      "dois": {
+        "genero": "masculino"
+      },
+      "duas": {
+        "genero": "feminino"
+      }
+    }
+  },
+  {
+    "lema": "três",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 3."
+    ],
+    "formas": {
+      "três": {}
+    }
+  },
+  {
+    "lema": "quatro",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 4."
+    ],
+    "formas": {
+      "quatro": {}
+    }
+  },
+  {
+    "lema": "cinco",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 5."
+    ],
+    "formas": {
+      "cinco": {}
+    }
+  },
+  {
+    "lema": "seis",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 6."
+    ],
+    "formas": {
+      "seis": {}
+    }
+  },
+  {
+    "lema": "sete",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 7."
+    ],
+    "formas": {
+      "sete": {}
+    }
+  },
+  {
+    "lema": "oito",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 8."
+    ],
+    "formas": {
+      "oito": {}
+    }
+  },
+  {
+    "lema": "nove",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 9."
+    ],
+    "formas": {
+      "nove": {}
+    }
+  },
+  {
+    "lema": "dez",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 10."
+    ],
+    "formas": {
+      "dez": {}
+    }
+  },
+  {
+    "lema": "cem",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 100."
+    ],
+    "formas": {
+      "cem": {}
+    }
+  },
+  {
+    "lema": "mil",
+    "classe": "numeral",
+    "definicoes": [
+      "Numeral cardinal que designa a quantidade 1000."
+    ],
+    "formas": {
+      "mil": {}
+    }
+  },
+  {
+    "lema": "estar",
+    "classe": "verbo",
+    "definicoes": [
+      "Encontrar-se num lugar, estado ou condição."
+    ],
+    "formas": {
+      "estar": {
+        "forma": "infinitivo"
+      },
+      "estou": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "está": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "estamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "estão": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "estive": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "esteve": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "estivemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "estiveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "estava": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "estavas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "estávamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "estavam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "esteja": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "estejas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "estejamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "estejam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "estando": {
+        "tempo": "gerúndio"
+      },
+      "estado": {
+        "tempo": "particípio"
+      }
+    }
+  },
+  {
+    "lema": "ter",
+    "classe": "verbo",
+    "definicoes": [
+      "Possuir algo, ou usado como auxiliar de tempos compostos."
+    ],
+    "formas": {
+      "ter": {
+        "forma": "infinitivo"
+      },
+      "tenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "tem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "temos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "têm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "tive": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "teve": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "tivemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "tiveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "tinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "tinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "tínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "tinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "tendo": {
+        "tempo": "gerúndio"
+      },
+      "tenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "tenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "tenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "tenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "tido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "tida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "tidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "tidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "conter",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter algo dentro de si, ou impedir que ultrapasse um limite."
+    ],
+    "formas": {
+      "conter": {
+        "forma": "infinitivo"
+      },
+      "contenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "contém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "contemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "contêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "contive": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "conteve": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "contivemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "contiveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "continha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "continhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "contínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "continham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "contendo": {
+        "tempo": "gerúndio"
+      },
+      "contenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "contenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "contenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "contenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "contido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "contida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "contidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "contidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "obter",
+    "classe": "verbo",
+    "definicoes": [
+      "Conseguir ou alcançar algo, geralmente através de esforço."
+    ],
+    "formas": {
+      "obter": {
+        "forma": "infinitivo"
+      },
+      "obtenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "obtém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "obtemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "obtêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "obtive": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "obteve": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "obtivemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "obtiveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "obtinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "obtinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "obtínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "obtinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "obtendo": {
+        "tempo": "gerúndio"
+      },
+      "obtenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "obtenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "obtenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "obtenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "obtido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "obtida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "obtidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "obtidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "manter",
+    "classe": "verbo",
+    "definicoes": [
+      "Fazer com que algo continue no mesmo estado, sem mudar."
+    ],
+    "formas": {
+      "manter": {
+        "forma": "infinitivo"
+      },
+      "mantenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "mantém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "mantemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "mantêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "mantive": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "manteve": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "mantivemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "mantiveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "mantinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "mantinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "mantínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "mantinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "mantendo": {
+        "tempo": "gerúndio"
+      },
+      "mantenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "mantenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "mantenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "mantenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "mantido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "mantida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "mantidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "mantidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "fazer",
+    "classe": "verbo",
+    "definicoes": [
+      "Realizar ou produzir algo."
+    ],
+    "formas": {
+      "fazer": {
+        "forma": "infinitivo"
+      },
+      "faço": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "faz": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "fazemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "fazem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "fiz": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "fez": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "fizemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "fizeram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "feito": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "feita": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "feitos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "feitas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      },
+      "fazendo": {
+        "tempo": "gerúndio"
+      },
+      "faça": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "faças": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "façamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "façam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "fazia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "fazias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "fazíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "faziam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ir",
+    "classe": "verbo",
+    "definicoes": [
+      "Deslocar-se para um lugar."
+    ],
+    "formas": {
+      "ir": {
+        "forma": "infinitivo"
+      },
+      "vou": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "vai": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "vamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "vão": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "fui": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "foi": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "fomos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "foram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "indo": {
+        "tempo": "gerúndio"
+      },
+      "ido": {
+        "tempo": "particípio"
+      },
+      "vá": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "vás": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "ia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "ias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "íamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "iam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "vir",
+    "classe": "verbo",
+    "definicoes": [
+      "Deslocar-se de outro lugar para o lugar de quem fala."
+    ],
+    "formas": {
+      "vir": {
+        "forma": "infinitivo"
+      },
+      "venho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "vem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "vimos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "vêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "vim": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "veio": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "viemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "vieram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "venha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "venhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "venhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "venham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "vindo": {
+        "tempo": "gerúndio"
+      },
+      "vinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "vinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "vínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "vinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "pôr",
+    "classe": "verbo",
+    "definicoes": [
+      "Colocar algo num lugar ou posição."
+    ],
+    "formas": {
+      "pôr": {
+        "forma": "infinitivo"
+      },
+      "ponho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "põe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "pomos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "põem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "pus": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "pôs": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "pusemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "puseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "ponha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "ponhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "ponhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "ponham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "pondo": {
+        "tempo": "gerúndio"
+      },
+      "posto": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "posta": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "postos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "postas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      },
+      "punha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "punhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "púnhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "punham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "compor",
+    "classe": "verbo",
+    "definicoes": [
+      "Formar um todo a partir de partes, ou criar uma obra."
+    ],
+    "formas": {
+      "compor": {
+        "forma": "infinitivo"
+      },
+      "componho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "compõe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "compomos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "compõem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "compus": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "compôs": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "compusemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "compuseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "componha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "componhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "componhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "componham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "compondo": {
+        "tempo": "gerúndio"
+      },
+      "composto": {
+        "tempo": "particípio"
+      },
+      "compunha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "compunhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "compúnhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "compunham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "decompor",
+    "classe": "verbo",
+    "definicoes": [
+      "Separar algo nas partes ou fatores que o formam."
+    ],
+    "formas": {
+      "decompor": {
+        "forma": "infinitivo"
+      },
+      "decomponho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "decompõe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "decompomos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "decompõem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "decompus": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "decompôs": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "decompusemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "decompuseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "decomponha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "decomponhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "decomponhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "decomponham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "decompondo": {
+        "tempo": "gerúndio"
+      },
+      "decomposto": {
+        "tempo": "particípio"
+      },
+      "decompunha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "decompunhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "decompúnhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "decompunham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "expor",
+    "classe": "verbo",
+    "definicoes": [
+      "Mostrar algo publicamente, ou sujeitar a um risco."
+    ],
+    "formas": {
+      "expor": {
+        "forma": "infinitivo"
+      },
+      "exponho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "expõe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "expomos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "expõem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "expus": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "expôs": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "expusemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "expuseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "exponha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "exponhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "exponhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "exponham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "expondo": {
+        "tempo": "gerúndio"
+      },
+      "exposto": {
+        "tempo": "particípio"
+      },
+      "expunha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "expunhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "expúnhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "expunham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "propor",
+    "classe": "verbo",
+    "definicoes": [
+      "Apresentar uma ideia, plano ou solução para consideração."
+    ],
+    "formas": {
+      "propor": {
+        "forma": "infinitivo"
+      },
+      "proponho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "propõe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "propomos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "propõem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "propus": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "propôs": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "propusemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "propuseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "proponha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "proponhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "proponhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "proponham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "propondo": {
+        "tempo": "gerúndio"
+      },
+      "proposto": {
+        "tempo": "particípio"
+      },
+      "propunha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "propunhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "propúnhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "propunham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "supor",
+    "classe": "verbo",
+    "definicoes": [
+      "Considerar algo como provável ou verdadeiro sem prova direta."
+    ],
+    "formas": {
+      "supor": {
+        "forma": "infinitivo"
+      },
+      "suponho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "supõe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "supomos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "supõem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "supus": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "supôs": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "supusemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "supuseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "suponha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "suponhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "suponhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "suponham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "supondo": {
+        "tempo": "gerúndio"
+      },
+      "suposto": {
+        "tempo": "particípio"
+      },
+      "supunha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "supunhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "supúnhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "supunham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "caber",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter espaço suficiente para conter algo, ou ser da competência de alguém."
+    ],
+    "formas": {
+      "caber": {
+        "forma": "infinitivo"
+      },
+      "caibo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "cabe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "cabemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "cabem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "coube": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "coubemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "couberam": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "cabendo": {
+        "tempo": "gerúndio"
+      },
+      "cabia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "cabias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "cabíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "cabiam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "cabido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "cabida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "cabidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "cabidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "caber",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter espaço suficiente para conter algo, ou ser da competência de alguém."
+    ],
+    "formas": {
+      "coube": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      }
+    }
+  },
+  {
+    "lema": "caber",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter espaço suficiente para conter algo, ou ser da competência de alguém."
+    ],
+    "formas": {
+      "caiba": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "caibas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "caibamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "caibam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "trazer",
+    "classe": "verbo",
+    "definicoes": [
+      "Levar algo consigo de um lugar para outro, na direção de quem fala."
+    ],
+    "formas": {
+      "trazer": {
+        "forma": "infinitivo"
+      },
+      "trago": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "traz": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "trazemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "trazem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "trouxe": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "trouxemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "trouxeram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "trazendo": {
+        "tempo": "gerúndio"
+      },
+      "trazia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "trazias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "trazíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "traziam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "trazido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "trazida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "trazidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "trazidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "trazer",
+    "classe": "verbo",
+    "definicoes": [
+      "Levar algo consigo de um lugar para outro, na direção de quem fala."
+    ],
+    "formas": {
+      "trouxe": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      }
+    }
+  },
+  {
+    "lema": "trazer",
+    "classe": "verbo",
+    "definicoes": [
+      "Levar algo consigo de um lugar para outro, na direção de quem fala."
+    ],
+    "formas": {
+      "traga": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "tragas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "tragamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "tragam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "valer",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter determinado valor, mérito ou validade."
+    ],
+    "formas": {
+      "valer": {
+        "forma": "infinitivo"
+      },
+      "valho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "vale": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "valemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "valem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "vali": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "valeu": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "valeram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "valendo": {
+        "tempo": "gerúndio"
+      },
+      "valia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "valias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "valíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "valiam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "valido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "valida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "validos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "validas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "valer",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter determinado valor, mérito ou validade."
+    ],
+    "formas": {
+      "valemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "valer",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter determinado valor, mérito ou validade."
+    ],
+    "formas": {
+      "valha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "valhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "valhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "valham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "querer",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter vontade ou desejo de algo."
+    ],
+    "formas": {
+      "querer": {
+        "forma": "infinitivo"
+      },
+      "quero": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "quer": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "queremos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "querem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "quis": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "quisemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "quiseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "querendo": {
+        "tempo": "gerúndio"
+      },
+      "querido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "querida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "queridos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "queridas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      },
+      "queira": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "queiras": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "queiramos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "queiram": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "queria": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "querias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "queríamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "queriam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "querer",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter vontade ou desejo de algo."
+    ],
+    "formas": {
+      "quis": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      }
+    }
+  },
+  {
+    "lema": "poder",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter capacidade, permissão ou possibilidade de fazer algo."
+    ],
+    "formas": {
+      "poder": {
+        "forma": "infinitivo"
+      },
+      "posso": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "pode": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "podemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "podem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "pude": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "pôde": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "pudemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "puderam": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "possa": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "possamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "possam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "podendo": {
+        "tempo": "gerúndio"
+      },
+      "podia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "podíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "podiam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "podido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "podida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "podidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "podidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "saber",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter conhecimento de algo."
+    ],
+    "formas": {
+      "saber": {
+        "forma": "infinitivo"
+      },
+      "sei": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "sabe": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "sabemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "sabem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "soube": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "soubemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "souberam": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "sabendo": {
+        "tempo": "gerúndio"
+      },
+      "saiba": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "saibas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "saibamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "saibam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "sabia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "sabias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "sabíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "sabiam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "sabido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "sabida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "sabidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "sabidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "saber",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter conhecimento de algo."
+    ],
+    "formas": {
+      "soube": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      }
+    }
+  },
+  {
+    "lema": "dizer",
+    "classe": "verbo",
+    "definicoes": [
+      "Exprimir por palavras."
+    ],
+    "formas": {
+      "dizer": {
+        "forma": "infinitivo"
+      },
+      "digo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "diz": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "dizemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "dizem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "disse": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "dissemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "disseram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "dito": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "dita": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "ditos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "ditas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      },
+      "dizendo": {
+        "tempo": "gerúndio"
+      },
+      "diga": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "digas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "digamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "digam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "dizia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "dizias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "dizíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "diziam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "dizer",
+    "classe": "verbo",
+    "definicoes": [
+      "Exprimir por palavras."
+    ],
+    "formas": {
+      "disse": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      }
+    }
+  },
+  {
+    "lema": "ver",
+    "classe": "verbo",
+    "definicoes": [
+      "Perceber pela visão, ou compreender."
+    ],
+    "formas": {
+      "ver": {
+        "forma": "infinitivo"
+      },
+      "vejo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "vê": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "vemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "veem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "vi": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "viu": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "vimos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "viram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "vendo": {
+        "tempo": "gerúndio"
+      },
+      "visto": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "vista": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "vistos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "vistas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      },
+      "veja": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "vejas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "vejamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "vejam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "via": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "vias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "víamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "viam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "dar",
+    "classe": "verbo",
+    "definicoes": [
+      "Entregar ou transmitir algo a alguém."
+    ],
+    "formas": {
+      "dar": {
+        "forma": "infinitivo"
+      },
+      "dou": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "dá": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "damos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "dão": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "dei": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "deu": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "demos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "deram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "dado": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "dada": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "dados": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "dadas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      },
+      "dando": {
+        "tempo": "gerúndio"
+      },
+      "dê": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "dês": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "deem": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "dava": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "davas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "dávamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "davam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "pensar",
+    "classe": "verbo",
+    "definicoes": [
+      "Formar ideias na mente; refletir."
+    ],
+    "formas": {
+      "pensar": {
+        "forma": "infinitivo"
+      },
+      "penso": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "pensa": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "pensamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "pensam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "gostar",
+    "classe": "verbo",
+    "definicoes": [
+      "Sentir agrado ou preferência por algo."
+    ],
+    "formas": {
+      "gostar": {
+        "forma": "infinitivo"
+      },
+      "gosto": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "gosta": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "gostamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "gostam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "aprender",
+    "classe": "verbo",
+    "definicoes": [
+      "Adquirir conhecimento ou capacidade nova."
+    ],
+    "formas": {
+      "aprender": {
+        "forma": "infinitivo"
+      },
+      "aprendo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "aprende": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "aprendemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "aprendem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ensinar",
+    "classe": "verbo",
+    "definicoes": [
+      "Transmitir conhecimento a alguém."
+    ],
+    "formas": {
+      "ensinar": {
+        "forma": "infinitivo"
+      },
+      "ensino": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "ensina": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "ensinamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "ensinam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "escrever",
+    "classe": "verbo",
+    "definicoes": [
+      "Representar palavras através de sinais gráficos."
+    ],
+    "formas": {
+      "escrever": {
+        "forma": "infinitivo"
+      },
+      "escrevo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "escreve": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "escrevemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "escrevem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ler",
+    "classe": "verbo",
+    "definicoes": [
+      "Interpretar um texto escrito."
+    ],
+    "formas": {
+      "ler": {
+        "forma": "infinitivo"
+      },
+      "leio": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "lê": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "lemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "leem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "li": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "leu": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "leram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "lendo": {
+        "tempo": "gerúndio"
+      },
+      "lido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "lida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "lidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "lidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      },
+      "leia": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "leias": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "leiamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "leiam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "lia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "lias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "líamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "liam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ler",
+    "classe": "verbo",
+    "definicoes": [
+      "Interpretar um texto escrito."
+    ],
+    "formas": {
+      "lemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "falar",
+    "classe": "verbo",
+    "definicoes": [
+      "Exprimir-se através da voz."
+    ],
+    "formas": {
+      "falar": {
+        "forma": "infinitivo"
+      },
+      "falo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "fala": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "falamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "falam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ouvir",
+    "classe": "verbo",
+    "definicoes": [
+      "Perceber sons pela audição."
+    ],
+    "formas": {
+      "ouvir": {
+        "forma": "infinitivo"
+      },
+      "ouço": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "ouve": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "ouvimos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "ouvem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "ouvi": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "ouviu": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "ouviram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "ouvindo": {
+        "tempo": "gerúndio"
+      },
+      "ouvido": {
+        "tempo": "particípio"
+      },
+      "ouça": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "ouças": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "ouçamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "ouçam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "ouvia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "ouvias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "ouvíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "ouviam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ajudar",
+    "classe": "verbo",
+    "definicoes": [
+      "Prestar auxílio a alguém."
+    ],
+    "formas": {
+      "ajudar": {
+        "forma": "infinitivo"
+      },
+      "ajudo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "ajuda": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "ajudamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "ajudam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "perguntar",
+    "classe": "verbo",
+    "definicoes": [
+      "Formular uma questão."
+    ],
+    "formas": {
+      "perguntar": {
+        "forma": "infinitivo"
+      },
+      "pergunto": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "pergunta": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "perguntamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "perguntam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "responder",
+    "classe": "verbo",
+    "definicoes": [
+      "Dar resposta a uma pergunta."
+    ],
+    "formas": {
+      "responder": {
+        "forma": "infinitivo"
+      },
+      "respondo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "responde": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "respondemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "respondem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "entender",
+    "classe": "verbo",
+    "definicoes": [
+      "Compreender o sentido de algo."
+    ],
+    "formas": {
+      "entender": {
+        "forma": "infinitivo"
+      },
+      "entendo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "entende": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "entendemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "entendem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "explicar",
+    "classe": "verbo",
+    "definicoes": [
+      "Tornar claro ou compreensível algo."
+    ],
+    "formas": {
+      "explicar": {
+        "forma": "infinitivo"
+      },
+      "explico": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "explica": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "explicamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "explicam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "resolver",
+    "classe": "verbo",
+    "definicoes": [
+      "Encontrar a solução de um problema ou exercício."
+    ],
+    "formas": {
+      "resolver": {
+        "forma": "infinitivo"
+      },
+      "resolvo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "resolve": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "resolvemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "resolvem": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "calcular",
+    "classe": "verbo",
+    "definicoes": [
+      "Determinar um valor através de operações matemáticas."
+    ],
+    "formas": {
+      "calcular": {
+        "forma": "infinitivo"
+      },
+      "calculo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "calcula": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "calculamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "calculam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "contar",
+    "classe": "verbo",
+    "definicoes": [
+      "Enumerar unidades para determinar uma quantidade."
+    ],
+    "formas": {
+      "contar": {
+        "forma": "infinitivo"
+      },
+      "conto": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "conta": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "contamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "contam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "somar",
+    "classe": "verbo",
+    "definicoes": [
+      "Juntar quantidades para obter um total."
+    ],
+    "formas": {
+      "somar": {
+        "forma": "infinitivo"
+      },
+      "somo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "soma": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "somamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "somam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "comparar",
+    "classe": "verbo",
+    "definicoes": [
+      "Observar semelhanças ou diferenças entre duas coisas."
+    ],
+    "formas": {
+      "comparar": {
+        "forma": "infinitivo"
+      },
+      "comparo": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "compara": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "comparamos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "comparam": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "escola",
+    "classe": "substantivo",
+    "definicoes": [
+      "Instituição onde se ensina e se aprende."
+    ],
+    "formas": {
+      "escola": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "escolas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "professor",
+    "classe": "substantivo",
+    "definicoes": [
+      "Pessoa que ensina."
+    ],
+    "formas": {
+      "professor": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "professora": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "professores": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "professoras": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "aluno",
+    "classe": "substantivo",
+    "definicoes": [
+      "Pessoa que aprende com um professor ou motor de ensino."
+    ],
+    "formas": {
+      "aluno": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "aluna": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "alunos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "alunas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "número",
+    "classe": "substantivo",
+    "definicoes": [
+      "Entidade matemática que exprime uma quantidade ou posição."
+    ],
+    "formas": {
+      "número": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "números": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "exercício",
+    "classe": "substantivo",
+    "definicoes": [
+      "Atividade proposta para praticar um conhecimento."
+    ],
+    "formas": {
+      "exercício": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "exercícios": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "resposta",
+    "classe": "substantivo",
+    "definicoes": [
+      "Aquilo que se diz ou escreve para responder a uma pergunta."
+    ],
+    "formas": {
+      "resposta": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "respostas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "pergunta",
+    "classe": "substantivo",
+    "definicoes": [
+      "Enunciado que pede uma resposta ou informação."
+    ],
+    "formas": {
+      "pergunta": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "perguntas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "aula",
+    "classe": "substantivo",
+    "definicoes": [
+      "Sessão de ensino sobre um assunto."
+    ],
+    "formas": {
+      "aula": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "aulas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "tempo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Duração ou sucessão dos acontecimentos."
+    ],
+    "formas": {
+      "tempo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "tempos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "dia",
+    "classe": "substantivo",
+    "definicoes": [
+      "Período de 24 horas, ou a parte clara desse período."
+    ],
+    "formas": {
+      "dia": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "dias": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ano",
+    "classe": "substantivo",
+    "definicoes": [
+      "Período de doze meses."
+    ],
+    "formas": {
+      "ano": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "anos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "amigo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Pessoa com quem se tem uma relação de afeto e confiança."
+    ],
+    "formas": {
+      "amigo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "amiga": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "amigos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "amigas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "família",
+    "classe": "substantivo",
+    "definicoes": [
+      "Grupo de pessoas unidas por laços de parentesco."
+    ],
+    "formas": {
+      "família": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "famílias": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "mãe",
+    "classe": "substantivo",
+    "definicoes": [
+      "Progenitora feminina."
+    ],
+    "formas": {
+      "mãe": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "mães": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "pai",
+    "classe": "substantivo",
+    "definicoes": [
+      "Progenitor masculino."
+    ],
+    "formas": {
+      "pai": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "pais": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "mundo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Conjunto de tudo o que existe; a Terra e quem nela vive."
+    ],
+    "formas": {
+      "mundo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "mundos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "vida",
+    "classe": "substantivo",
+    "definicoes": [
+      "Estado de quem existe e se desenvolve; conjunto de experiências de alguém."
+    ],
+    "formas": {
+      "vida": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "vidas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "trabalho",
+    "classe": "substantivo",
+    "definicoes": [
+      "Atividade realizada para produzir algo ou obter sustento."
+    ],
+    "formas": {
+      "trabalho": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "trabalhos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "jogo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Atividade com regras, feita por diversão ou competição."
+    ],
+    "formas": {
+      "jogo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "jogos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "computador",
+    "classe": "substantivo",
+    "definicoes": [
+      "Máquina que processa informação segundo instruções."
+    ],
+    "formas": {
+      "computador": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "computadores": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ideia",
+    "classe": "substantivo",
+    "definicoes": [
+      "Representação mental de algo; pensamento."
+    ],
+    "formas": {
+      "ideia": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "ideias": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "problema",
+    "classe": "substantivo",
+    "definicoes": [
+      "Questão que exige solução; dificuldade a resolver."
+    ],
+    "formas": {
+      "problema": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "problemas": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "solução",
+    "classe": "substantivo",
+    "definicoes": [
+      "Resposta ou caminho que resolve um problema."
+    ],
+    "formas": {
+      "solução": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "soluções": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "conhecimento",
+    "classe": "substantivo",
+    "definicoes": [
+      "Aquilo que se sabe através do estudo ou da experiência."
+    ],
+    "formas": {
+      "conhecimento": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "conhecimentos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "sujeito",
+    "classe": "substantivo",
+    "definicoes": [
+      "Termo da oração sobre o qual se declara algo, geralmente ligado ao verbo."
+    ],
+    "formas": {
+      "sujeito": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "sujeitos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "predicado",
+    "classe": "substantivo",
+    "definicoes": [
+      "Tudo o que se diz do sujeito numa oração, organizado em torno do verbo."
+    ],
+    "formas": {
+      "predicado": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "predicados": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "substantivo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Classe de palavras que nomeia seres, objetos, ideias ou sentimentos."
+    ],
+    "formas": {
+      "substantivo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "substantivos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "verbo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Classe de palavras que exprime ação, estado ou processo."
+    ],
+    "formas": {
+      "verbo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "verbos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "adjetivo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Classe de palavras que atribui qualidade a um substantivo."
+    ],
+    "formas": {
+      "adjetivo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "adjetivos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "advérbio",
+    "classe": "substantivo",
+    "definicoes": [
+      "Classe de palavras que modifica um verbo, adjetivo ou outro advérbio."
+    ],
+    "formas": {
+      "advérbio": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "advérbios": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "pronome",
+    "classe": "substantivo",
+    "definicoes": [
+      "Classe de palavras que substitui ou acompanha um substantivo."
+    ],
+    "formas": {
+      "pronome": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "pronomes": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "sílaba",
+    "classe": "substantivo",
+    "definicoes": [
+      "Unidade sonora pronunciada numa só emissão de voz."
+    ],
+    "formas": {
+      "sílaba": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "sílabas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "vogal",
+    "classe": "substantivo",
+    "definicoes": [
+      "Som produzido sem obstrução do ar, ou a letra que o representa (a, e, i, o, u)."
+    ],
+    "formas": {
+      "vogal": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "vogais": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "consoante",
+    "classe": "substantivo",
+    "definicoes": [
+      "Som produzido com obstrução do ar, ou a letra que o representa."
+    ],
+    "formas": {
+      "consoante": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "consoantes": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "conta",
+    "classe": "substantivo",
+    "definicoes": [
+      "Operação aritmética a resolver."
+    ],
+    "formas": {
+      "conta": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "contas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "soma",
+    "classe": "substantivo",
+    "definicoes": [
+      "Resultado de somar; adição."
+    ],
+    "formas": {
+      "soma": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "somas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "subtração",
+    "classe": "substantivo",
+    "definicoes": [
+      "Operação de retirar uma quantidade de outra."
+    ],
+    "formas": {
+      "subtração": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "subtrações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "multiplicação",
+    "classe": "substantivo",
+    "definicoes": [
+      "Operação de somar um número consigo mesmo várias vezes."
+    ],
+    "formas": {
+      "multiplicação": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "multiplicações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "divisão",
+    "classe": "substantivo",
+    "definicoes": [
+      "Operação de repartir uma quantidade em partes iguais."
+    ],
+    "formas": {
+      "divisão": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "divisões": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "total",
+    "classe": "substantivo",
+    "definicoes": [
+      "Resultado final de uma soma ou contagem."
+    ],
+    "formas": {
+      "total": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "totais": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "resultado",
+    "classe": "substantivo",
+    "definicoes": [
+      "Valor ou consequência final de uma operação ou processo."
+    ],
+    "formas": {
+      "resultado": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "resultados": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "fração",
+    "classe": "substantivo",
+    "definicoes": [
+      "Número que representa uma parte de um todo dividido em partes iguais."
+    ],
+    "formas": {
+      "fração": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "frações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "metade",
+    "classe": "substantivo",
+    "definicoes": [
+      "Uma das duas partes iguais de um todo."
+    ],
+    "formas": {
+      "metade": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "metades": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "fácil",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que se faz ou entende sem grande esforço."
+    ],
+    "formas": {
+      "fácil": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "fáceis": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "difícil",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que exige esforço para se fazer ou entender."
+    ],
+    "formas": {
+      "difícil": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "difíceis": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "novo",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que existe ou apareceu há pouco tempo."
+    ],
+    "formas": {
+      "novo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "nova": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "novos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "novas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "velho",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que existe há muito tempo; de idade avançada."
+    ],
+    "formas": {
+      "velho": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "velha": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "velhos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "velhas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "pequeno",
+    "classe": "adjetivo",
+    "definicoes": [
+      "De tamanho reduzido."
+    ],
+    "formas": {
+      "pequeno": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "pequena": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "pequenos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "pequenas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "rápido",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que se move ou acontece em pouco tempo."
+    ],
+    "formas": {
+      "rápido": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "rápida": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "rápidos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "rápidas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "lento",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que se move ou acontece devagar."
+    ],
+    "formas": {
+      "lento": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "lenta": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "lentos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "lentas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "correto",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que está de acordo com a regra ou a verdade."
+    ],
+    "formas": {
+      "correto": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "correta": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "corretos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "corretas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "errado",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que não está de acordo com a regra ou a verdade."
+    ],
+    "formas": {
+      "errado": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "errada": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "errados": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "erradas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "importante",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que tem grande valor ou relevância."
+    ],
+    "formas": {
+      "importante": {
+        "genero": "comum",
+        "numero": "singular"
+      },
+      "importantes": {
+        "genero": "comum",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "simples",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que não é complicado; que tem poucas partes."
+    ],
+    "formas": {
+      "simples": {
+        "genero": "comum",
+        "numero": "singular"
+      }
+    }
+  },
+  {
+    "lema": "completo",
+    "classe": "adjetivo",
+    "definicoes": [
+      "A que não falta nenhuma parte."
+    ],
+    "formas": {
+      "completo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "completa": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "completos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "completas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "certo",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que corresponde à verdade ou ao esperado."
+    ],
+    "formas": {
+      "certo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "certa": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "certos": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "certas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "muito",
+    "classe": "adverbio",
+    "definicoes": [
+      "Em grande quantidade ou intensidade."
+    ],
+    "formas": {
+      "muito": {}
+    }
+  },
+  {
+    "lema": "pouco",
+    "classe": "adverbio",
+    "definicoes": [
+      "Em pequena quantidade ou intensidade."
+    ],
+    "formas": {
+      "pouco": {}
+    }
+  },
+  {
+    "lema": "sempre",
+    "classe": "adverbio",
+    "definicoes": [
+      "Em todos os momentos; sem exceção."
+    ],
+    "formas": {
+      "sempre": {}
+    }
+  },
+  {
+    "lema": "nunca",
+    "classe": "adverbio",
+    "definicoes": [
+      "Em nenhum momento."
+    ],
+    "formas": {
+      "nunca": {}
+    }
+  },
+  {
+    "lema": "também",
+    "classe": "adverbio",
+    "definicoes": [
+      "Do mesmo modo; além disso."
+    ],
+    "formas": {
+      "também": {}
+    }
+  },
+  {
+    "lema": "já",
+    "classe": "adverbio",
+    "definicoes": [
+      "Neste momento, ou anteriormente ao que se esperava."
+    ],
+    "formas": {
+      "já": {}
+    }
+  },
+  {
+    "lema": "ainda",
+    "classe": "adverbio",
+    "definicoes": [
+      "Até o momento presente; continuamente."
+    ],
+    "formas": {
+      "ainda": {}
+    }
+  },
+  {
+    "lema": "agora",
+    "classe": "adverbio",
+    "definicoes": [
+      "No momento presente."
+    ],
+    "formas": {
+      "agora": {}
+    }
+  },
+  {
+    "lema": "bem",
+    "classe": "adverbio",
+    "definicoes": [
+      "De modo correto, satisfatório ou favorável."
+    ],
+    "formas": {
+      "bem": {}
+    }
+  },
+  {
+    "lema": "mal",
+    "classe": "adverbio",
+    "definicoes": [
+      "De modo incorreto ou insatisfatório."
+    ],
+    "formas": {
+      "mal": {}
+    }
+  },
+  {
+    "lema": "aqui",
+    "classe": "adverbio",
+    "definicoes": [
+      "Neste lugar."
+    ],
+    "formas": {
+      "aqui": {}
+    }
+  },
+  {
+    "lema": "ali",
+    "classe": "adverbio",
+    "definicoes": [
+      "Naquele lugar, mais distante do que \"aqui\"."
+    ],
+    "formas": {
+      "ali": {}
+    }
+  },
+  {
+    "lema": "tu",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome pessoal da segunda pessoa do singular."
+    ],
+    "formas": {
+      "tu": {
+        "numero": "singular",
+        "pessoa": 2
+      }
+    }
+  },
+  {
+    "lema": "você",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome de tratamento usado como segunda pessoa."
+    ],
+    "formas": {
+      "você": {
+        "numero": "singular",
+        "pessoa": 2
+      },
+      "vocês": {
+        "numero": "plural",
+        "pessoa": 2
+      }
+    }
+  },
+  {
+    "lema": "isto",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome demonstrativo para algo próximo de quem fala."
+    ],
+    "formas": {
+      "isto": {}
+    }
+  },
+  {
+    "lema": "isso",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome demonstrativo para algo próximo de quem ouve."
+    ],
+    "formas": {
+      "isso": {}
+    }
+  },
+  {
+    "lema": "aquilo",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome demonstrativo para algo distante de quem fala e de quem ouve."
+    ],
+    "formas": {
+      "aquilo": {}
+    }
+  },
+  {
+    "lema": "meu",
+    "classe": "pronome",
+    "definicoes": [
+      "Pronome possessivo da primeira pessoa do singular."
+    ],
+    "formas": {
+      "meu": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "minha": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "meus": {
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "minhas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "matemática",
+    "classe": "substantivo",
+    "definicoes": [
+      "Ciência que estuda números, quantidades, espaço e estruturas através de raciocínio lógico e demonstração."
+    ],
+    "formas": {
+      "matemática": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "matemáticas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "adição",
+    "classe": "substantivo",
+    "definicoes": [
+      "Operação construída como reunião de grupos."
+    ],
+    "formas": {
+      "adição": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "adições": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "dobro",
+    "classe": "substantivo",
+    "definicoes": [
+      "Quantidade construída juntando uma quantidade consigo mesma."
+    ],
+    "formas": {
+      "dobro": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "dobros": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "divisibilidade",
+    "classe": "substantivo",
+    "definicoes": [
+      "Relação em que um número constrói outro por multiplicação por algum natural."
+    ],
+    "formas": {
+      "divisibilidade": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "divisibilidades": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "divisor",
+    "classe": "substantivo",
+    "definicoes": [
+      "Número que constrói outro por multiplicação por algum natural."
+    ],
+    "formas": {
+      "divisor": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "divisores": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "múltiplo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Número construído por repetição multiplicativa de outro."
+    ],
+    "formas": {
+      "múltiplo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "múltiplos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "quociente",
+    "classe": "substantivo",
+    "definicoes": [
+      "Quantidade de vezes que uma parte cabe num todo em divisão euclidiana."
+    ],
+    "formas": {
+      "quociente": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "quocientes": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "resto",
+    "classe": "substantivo",
+    "definicoes": [
+      "Sobra final depois de retirar a maior quantidade possível de partes iguais."
+    ],
+    "formas": {
+      "resto": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "restos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "primalidade",
+    "classe": "substantivo",
+    "definicoes": [
+      "Propriedade de um número natural maior que um ter apenas divisores positivos um e ele mesmo."
+    ],
+    "formas": {
+      "primalidade": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "primalidades": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "fatoração",
+    "classe": "substantivo",
+    "definicoes": [
+      "Decomposição de um número em fatores, especialmente fatores primos."
+    ],
+    "formas": {
+      "fatoração": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "fatorações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "congruência",
+    "classe": "substantivo",
+    "definicoes": [
+      "Relação entre números que deixam o mesmo resto perante um módulo."
+    ],
+    "formas": {
+      "congruência": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "congruências": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "combinatória",
+    "classe": "substantivo",
+    "definicoes": [
+      "Área que estuda contagem de possibilidades por construção finita."
+    ],
+    "formas": {
+      "combinatória": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "combinatórias": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "relação",
+    "classe": "substantivo",
+    "definicoes": [
+      "Ligação entre objetos, geralmente representada por pares."
+    ],
+    "formas": {
+      "relação": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "relações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "função",
+    "classe": "substantivo",
+    "definicoes": [
+      "Relação especial que associa cada entrada a uma única saída."
+    ],
+    "formas": {
+      "função": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "funções": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "álgebra",
+    "classe": "substantivo",
+    "definicoes": [
+      "Estudo de operações e estruturas que preservam regras."
+    ],
+    "formas": {
+      "álgebra": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "álgebras": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "grafo",
+    "classe": "substantivo",
+    "definicoes": [
+      "Estrutura formada por vértices e ligações."
+    ],
+    "formas": {
+      "grafo": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "grafos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "autômato",
+    "classe": "substantivo",
+    "definicoes": [
+      "Máquina abstrata com estados e transições."
+    ],
+    "formas": {
+      "autômato": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "autômatos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "probabilidade",
+    "classe": "substantivo",
+    "definicoes": [
+      "Medida de possibilidade dentro de um espaço de eventos."
+    ],
+    "formas": {
+      "probabilidade": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "probabilidades": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "estatística",
+    "classe": "substantivo",
+    "definicoes": [
+      "Estudo de dados, variação e inferência a partir de amostras."
+    ],
+    "formas": {
+      "estatística": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "estatísticas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "otimização",
+    "classe": "substantivo",
+    "definicoes": [
+      "Procura de melhor valor segundo uma função objetivo."
+    ],
+    "formas": {
+      "otimização": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "otimizações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "infinito",
+    "classe": "substantivo",
+    "definicoes": [
+      "Abertura sem último elemento; no PSF, uma regra que pode continuar."
+    ],
+    "formas": {
+      "infinito": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "infinitos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "fronteira",
+    "classe": "substantivo",
+    "definicoes": [
+      "Limite atual entre o que já foi construído e o que ainda precisa ser construído."
+    ],
+    "formas": {
+      "fronteira": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "fronteiras": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "conceito",
+    "classe": "substantivo",
+    "definicoes": [
+      "Unidade estável de conhecimento construída por definição, teste e relação."
+    ],
+    "formas": {
+      "conceito": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "conceitos": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "dependência",
+    "classe": "substantivo",
+    "definicoes": [
+      "Conceito anterior necessário para construir outro sem fingimento."
+    ],
+    "formas": {
+      "dependência": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "dependências": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "validação",
+    "classe": "substantivo",
+    "definicoes": [
+      "Comparação externa ou teste usado para verificar uma construção."
+    ],
+    "formas": {
+      "validação": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "validações": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "fórmula",
+    "classe": "substantivo",
+    "definicoes": [
+      "Forma compacta de uma relação matemática; no PSF não pode substituir a construção."
+    ],
+    "formas": {
+      "fórmula": {
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "fórmulas": {
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "pacote",
+    "classe": "substantivo",
+    "definicoes": [
+      "Grupo organizado de aulas ou conhecimentos relacionados."
+    ],
+    "formas": {
+      "pacote": {
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "pacotes": {
+        "genero": "masculino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "construir",
+    "classe": "verbo",
+    "definicoes": [
+      "Formar um conceito a partir de conceitos anteriores."
+    ],
+    "formas": {
+      "construir": {}
+    }
+  },
+  {
+    "lema": "validar",
+    "classe": "verbo",
+    "definicoes": [
+      "Testar se uma construção se mantém diante de exemplos ou referência externa."
+    ],
+    "formas": {
+      "validar": {}
+    }
+  },
+  {
+    "lema": "subtrair",
+    "classe": "verbo",
+    "definicoes": [
+      "Retirar uma quantidade de outra quando isso é controlado."
+    ],
+    "formas": {
+      "subtrair": {}
+    }
+  },
+  {
+    "lema": "multiplicar",
+    "classe": "verbo",
+    "definicoes": [
+      "Repetir uma adição de grupos iguais."
+    ],
+    "formas": {
+      "multiplicar": {}
+    }
+  },
+  {
+    "lema": "dividir",
+    "classe": "verbo",
+    "definicoes": [
+      "Repartir ou procurar quantas vezes uma parte cabe no todo."
+    ],
+    "formas": {
+      "dividir": {}
+    }
+  },
+  {
+    "lema": "recriar",
+    "classe": "verbo",
+    "definicoes": [
+      "Construir novamente por fundamentos próprios, sem copiar como dogma."
+    ],
+    "formas": {
+      "recriar": {}
+    }
+  },
+  {
+    "lema": "generalizar",
+    "classe": "verbo",
+    "definicoes": [
+      "Estender uma construção para mais casos mantendo a regra."
+    ],
+    "formas": {
+      "generalizar": {}
+    }
+  },
+  {
+    "lema": "testar",
+    "classe": "verbo",
+    "definicoes": [
+      "Aplicar casos para verificar se uma ideia funciona."
+    ],
+    "formas": {
+      "testar": {}
+    }
+  },
+  {
+    "lema": "fluido",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que passa de uma ideia para outra com ligação clara."
+    ],
+    "formas": {
+      "fluido": {}
+    }
+  },
+  {
+    "lema": "coerente",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que não contradiz os conceitos já aceites."
+    ],
+    "formas": {
+      "coerente": {}
+    }
+  },
+  {
+    "lema": "restrito",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que exige permissão ou reconhecimento antes de ser revelado."
+    ],
+    "formas": {
+      "restrito": {}
+    }
+  },
+  {
+    "lema": "público",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que pode ser usado sem restrição especial."
+    ],
+    "formas": {
+      "público": {}
+    }
+  },
+  {
+    "lema": "futuro",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que ainda não está construído no estado atual."
+    ],
+    "formas": {
+      "futuro": {}
+    }
+  },
+  {
+    "lema": "técnico",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Relativo a construção formal ou operacional."
+    ],
+    "formas": {
+      "técnico": {}
+    }
+  },
+  {
+    "lema": "humano",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Expresso em linguagem acessível ao estudante."
+    ],
+    "formas": {
+      "humano": {}
+    }
+  },
+  {
+    "lema": "promissor",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Que gerou ferramenta, método ou avanço aplicável."
+    ],
+    "formas": {
+      "promissor": {}
+    }
+  },
+  {
+    "lema": "finito",
+    "classe": "adjetivo",
+    "definicoes": [
+      "Limitado por tamanho, passos ou catálogo."
+    ],
+    "formas": {
+      "finito": {}
+    }
+  },
+  {
+    "lema": "porque",
+    "classe": "conjuncao",
+    "definicoes": [
+      "Conjunção usada para apresentar causa ou explicação."
+    ],
+    "formas": {
+      "porque": {}
+    }
+  },
+  {
+    "lema": "portanto",
+    "classe": "conjuncao",
+    "definicoes": [
+      "Conjunção usada para introduzir conclusão."
+    ],
+    "formas": {
+      "portanto": {}
+    }
+  },
+  {
+    "lema": "então",
+    "classe": "conjuncao",
+    "definicoes": [
+      "Palavra que indica consequência, continuidade ou conclusão."
+    ],
+    "formas": {
+      "então": {}
+    }
+  },
+  {
+    "lema": "se",
+    "classe": "conjuncao",
+    "definicoes": [
+      "Conjunção que introduz condição."
+    ],
+    "formas": {
+      "se": {}
+    }
+  },
+  {
+    "lema": "quando",
+    "classe": "conjuncao",
+    "definicoes": [
+      "Palavra que liga uma ação a uma condição temporal ou lógica."
+    ],
+    "formas": {
+      "quando": {}
+    }
+  },
+  {
+    "lema": "sobre",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que introduz tema ou assunto."
+    ],
+    "formas": {
+      "sobre": {}
+    }
+  },
+  {
+    "lema": "desde",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que indica ponto inicial."
+    ],
+    "formas": {
+      "desde": {}
+    }
+  },
+  {
+    "lema": "até",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que indica limite ou destino."
+    ],
+    "formas": {
+      "até": {}
+    }
+  },
+  {
+    "lema": "sem",
+    "classe": "preposicao",
+    "definicoes": [
+      "Preposição que indica ausência."
+    ],
+    "formas": {
+      "sem": {}
+    }
+  },
+  {
+    "lema": "haver",
+    "classe": "verbo",
+    "definicoes": [
+      "Existir ou acontecer (uso impessoal, \"há\"), ou usado como auxiliar de tempos compostos."
+    ],
+    "formas": {
+      "haver": {
+        "forma": "infinitivo"
+      },
+      "hei": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "há": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "havemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "hão": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "haja": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "hajam": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "houver": {
+        "tempo": "futuro do subjuntivo",
+        "numero": "singular"
+      },
+      "houvermos": {
+        "tempo": "futuro do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "houverem": {
+        "tempo": "futuro do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "havendo": {
+        "tempo": "gerúndio"
+      },
+      "houve": {
+        "tempo": "pretérito perfeito",
+        "numero": "singular"
+      },
+      "houveste": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "houvemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "houveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "havia": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "havias": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "havíamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "haviam": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "havido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "havida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "havidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "havidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "dar",
+    "classe": "verbo",
+    "definicoes": [
+      "Entregar ou transmitir algo a alguém."
+    ],
+    "formas": {
+      "demos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "ouvir",
+    "classe": "verbo",
+    "definicoes": [
+      "Perceber sons pela audição."
+    ],
+    "formas": {
+      "ouvimos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "vir",
+    "classe": "verbo",
+    "definicoes": [
+      "Deslocar-se de outro lugar para o lugar de quem fala."
+    ],
+    "formas": {
+      "vindo": {
+        "tempo": "particípio"
+      }
+    }
+  },
+  {
+    "lema": "ir",
+    "classe": "verbo",
+    "definicoes": [
+      "Deslocar-se para um lugar."
+    ],
+    "formas": {
+      "vamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "vão": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "deter",
+    "classe": "verbo",
+    "definicoes": [
+      "Prender ou capturar alguém; ou impedir que algo continue."
+    ],
+    "formas": {
+      "deter": {
+        "forma": "infinitivo"
+      },
+      "detenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "detém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "detemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "detêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "detive": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "deteve": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "detivemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "detiveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "detinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "detinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "detínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "detinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "detendo": {
+        "tempo": "gerúndio"
+      },
+      "detenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "detenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "detenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "detenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "detido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "detida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "detidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "detidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "reter",
+    "classe": "verbo",
+    "definicoes": [
+      "Guardar consigo sem deixar sair ou seguir adiante; conter."
+    ],
+    "formas": {
+      "reter": {
+        "forma": "infinitivo"
+      },
+      "retenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "retém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "retemos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "retêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "retive": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "reteve": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "retivemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "retiveram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "retinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "retinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "retínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "retinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "retendo": {
+        "tempo": "gerúndio"
+      },
+      "retenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "retenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "retenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "retenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "retido": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "singular"
+      },
+      "retida": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "singular"
+      },
+      "retidos": {
+        "tempo": "particípio",
+        "genero": "masculino",
+        "numero": "plural"
+      },
+      "retidas": {
+        "tempo": "particípio",
+        "genero": "feminino",
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "convir",
+    "classe": "verbo",
+    "definicoes": [
+      "Ser apropriado, ser do interesse ou vantagem de alguém."
+    ],
+    "formas": {
+      "convir": {
+        "forma": "infinitivo"
+      },
+      "convenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "convém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "convimos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "convêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "convim": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "conveio": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "conviemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "convieram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "convenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "convenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "convenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "convenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "convindo": {
+        "tempo": "gerúndio"
+      },
+      "convinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "convinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "convínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "convinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "convir",
+    "classe": "verbo",
+    "definicoes": [
+      "Ser apropriado, ser do interesse ou vantagem de alguém."
+    ],
+    "formas": {
+      "convindo": {
+        "tempo": "particípio"
+      }
+    }
+  },
+  {
+    "lema": "intervir",
+    "classe": "verbo",
+    "definicoes": [
+      "Participar ativamente numa situação para influenciar o seu curso."
+    ],
+    "formas": {
+      "intervir": {
+        "forma": "infinitivo"
+      },
+      "intervenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "intervém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "intervimos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "intervêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "intervim": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "interveio": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "interviemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "intervieram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "intervenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "intervenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "intervenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "intervenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "intervindo": {
+        "tempo": "gerúndio"
+      },
+      "intervinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "intervinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "intervínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "intervinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "intervir",
+    "classe": "verbo",
+    "definicoes": [
+      "Participar ativamente numa situação para influenciar o seu curso."
+    ],
+    "formas": {
+      "intervindo": {
+        "tempo": "particípio"
+      }
+    }
+  },
+  {
+    "lema": "provir",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter origem ou procedência em algo."
+    ],
+    "formas": {
+      "provir": {
+        "forma": "infinitivo"
+      },
+      "provenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "provém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "provimos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "provêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "provim": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "proveio": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "proviemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "provieram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "provenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "provenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "provenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "provenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "provindo": {
+        "tempo": "gerúndio"
+      },
+      "provinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "provinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "provínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "provinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "provir",
+    "classe": "verbo",
+    "definicoes": [
+      "Ter origem ou procedência em algo."
+    ],
+    "formas": {
+      "provindo": {
+        "tempo": "particípio"
+      }
+    }
+  },
+  {
+    "lema": "sobrevir",
+    "classe": "verbo",
+    "definicoes": [
+      "Acontecer logo depois de outra coisa, sobretudo de modo inesperado."
+    ],
+    "formas": {
+      "sobrevir": {
+        "forma": "infinitivo"
+      },
+      "sobrevenho": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "sobrevém": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "sobrevimos": {
+        "tempo": "presente",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "sobrevêm": {
+        "tempo": "presente",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "sobrevim": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "singular"
+      },
+      "sobreveio": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "singular"
+      },
+      "sobreviemos": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "sobrevieram": {
+        "tempo": "pretérito perfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "sobrevenha": {
+        "tempo": "presente do subjuntivo",
+        "numero": "singular"
+      },
+      "sobrevenhas": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "sobrevenhamos": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "sobrevenham": {
+        "tempo": "presente do subjuntivo",
+        "pessoa": 3,
+        "numero": "plural"
+      },
+      "sobrevindo": {
+        "tempo": "gerúndio"
+      },
+      "sobrevinha": {
+        "tempo": "pretérito imperfeito",
+        "numero": "singular"
+      },
+      "sobrevinhas": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 2,
+        "numero": "singular"
+      },
+      "sobrevínhamos": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 1,
+        "numero": "plural"
+      },
+      "sobrevinham": {
+        "tempo": "pretérito imperfeito",
+        "pessoa": 3,
+        "numero": "plural"
+      }
+    }
+  },
+  {
+    "lema": "sobrevir",
+    "classe": "verbo",
+    "definicoes": [
+      "Acontecer logo depois de outra coisa, sobretudo de modo inesperado."
+    ],
+    "formas": {
+      "sobrevindo": {
+        "tempo": "particípio"
+      }
+    }
+  }
+]

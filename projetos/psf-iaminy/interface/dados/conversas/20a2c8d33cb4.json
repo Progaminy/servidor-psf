@@ -1,0 +1,20 @@
+{
+  "id": "20a2c8d33cb4",
+  "titulo": "Ola",
+  "criado_em": "2026-07-13T01:33:10.631844+00:00",
+  "mensagens": [
+    {
+      "papel": "aluno",
+      "texto": "ola",
+      "quando": "2026-07-13T01:33:17.703396+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Olá. Sou o PSF-IAminy. Estou pronto para responder em linguagem normal, procurar no índice local e dizer quando houver lacuna.",
+      "quando": "2026-07-13T01:33:17.705068+00:00"
+    }
+  ],
+  "estado": {
+    "estado_psf": null
+  }
+}

@@ -1,0 +1,180 @@
+[
+  {
+    "id": "concordancia_nominal_correta",
+    "texto": "A menina bonita chegou.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["sujeito", "A menina bonita"], ["predicado", "chegou"]],
+    "classes": [["menina", "substantivo"], ["bonita", "adjetivo"], ["chegou", "verbo"]]
+  },
+  {
+    "id": "concordancia_genero_incorreta",
+    "texto": "A menina bonito chegou.",
+    "correto": false,
+    "diagnosticos": ["CONCORDANCIA_NOME_ADJ"],
+    "constituintes": [["sujeito", "A menina bonito"], ["predicado", "chegou"]]
+  },
+  {
+    "id": "determinante_numero_incorreto",
+    "texto": "Os livro chegou.",
+    "correto": false,
+    "diagnosticos": ["CONCORDANCIA_DET_NOME"],
+    "constituintes": [["sujeito", "Os livro"], ["predicado", "chegou"]]
+  },
+  {
+    "id": "verbo_numero_incorreto",
+    "texto": "Os livros antigos chegou.",
+    "correto": false,
+    "diagnosticos": ["CONCORDANCIA_VERBO_SUJEITO"],
+    "constituintes": [["sujeito", "Os livros antigos"], ["predicado", "chegou"]]
+  },
+  {
+    "id": "verbo_pessoa_incorreta",
+    "texto": "Eu chegou cedo.",
+    "correto": false,
+    "diagnosticos": ["CONCORDANCIA_VERBO_SUJEITO"],
+    "classes": [["Eu", "pronome"], ["chegou", "verbo"], ["cedo", "adverbio"]]
+  },
+  {
+    "id": "primeira_plural_correta",
+    "texto": "Nós estudamos.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["sujeito", "Nós"], ["predicado", "estudamos"]]
+  },
+  {
+    "id": "sujeito_coordenado_incorreto",
+    "texto": "A Maria e o João chegou.",
+    "correto": false,
+    "diagnosticos": ["CONCORDANCIA_VERBO_SUJEITO"],
+    "constituintes": [["sujeito", "A Maria e o João"], ["predicado", "chegou"]]
+  },
+  {
+    "id": "sujeito_coordenado_correto",
+    "texto": "A Maria e o João chegaram.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["sujeito", "A Maria e o João"], ["predicado", "chegaram"]]
+  },
+  {
+    "id": "vocativo",
+    "texto": "João, venha aqui!",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["vocativo", "João"], ["predicado", "venha aqui"], ["sujeito_oculto", ""]]
+  },
+  {
+    "id": "objeto_direto",
+    "texto": "Maria viu João.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["sujeito", "Maria"], ["predicado", "viu João"], ["objeto_direto", "João"]]
+  },
+  {
+    "id": "sujeito_posposto",
+    "texto": "Chegaram os alunos.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["predicado", "Chegaram os alunos"], ["sujeito_posposto", "alunos"]]
+  },
+  {
+    "id": "predicativo",
+    "texto": "A casa é bonita.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["sujeito", "A casa"], ["predicado", "é bonita"], ["predicativo", "bonita"]]
+  },
+  {
+    "id": "se_apassivador",
+    "texto": "Vendem-se casas.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["predicado", "Vendem-se casas"], ["sujeito_posposto", "casas"]],
+    "uso_do_se": ["apassivador"],
+    "classes": [["Vendem", "verbo"], ["se", "pronome"]]
+  },
+  {
+    "id": "se_indeterminacao",
+    "texto": "Entende-se de livros.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["predicado", "Entende-se de livros"]],
+    "uso_do_se": ["indeterminacao"]
+  },
+  {
+    "id": "verbo_impessoal",
+    "texto": "Há muitos problemas.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["predicado", "Há muitos problemas"]]
+  },
+  {
+    "id": "erro_ortografico_voce",
+    "texto": "voçe veio ontem.",
+    "correto": false,
+    "diagnosticos": ["ORTOGRAFIA_SUGESTAO"],
+    "sugestoes": [["voçe", "você"]]
+  },
+  {
+    "id": "erro_ortografico_portugues",
+    "texto": "Eu estudo protugues.",
+    "correto": false,
+    "diagnosticos": ["ORTOGRAFIA_SUGESTAO"],
+    "sugestoes": [["protugues", "português"]]
+  },
+  {
+    "id": "erro_whitelist_resposta",
+    "texto": "A reposta está correta.",
+    "correto": false,
+    "diagnosticos": ["ORTOGRAFIA_CORRECAO_CONHECIDA"],
+    "sugestoes": [["reposta", "resposta"]]
+  },
+  {
+    "id": "numero_e_simbolo",
+    "texto": "Isto custa 1.234,56 €.",
+    "correto": true,
+    "diagnosticos": [],
+    "classes": [["Isto", "pronome"], ["custa", "verbo"], ["1.234,56", "numeral"]]
+  },
+  {
+    "id": "nome_proprio_sem_falso_positivo",
+    "texto": "Maria estuda hoje.",
+    "correto": true,
+    "diagnosticos": [],
+    "classes": [["Maria", "substantivo"], ["estuda", "verbo"], ["hoje", "adverbio"]]
+  },
+  {
+    "id": "auxiliar_progressivo",
+    "texto": "Os alunos estão estudando.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["auxiliar_verbal", "estão"], ["sujeito", "Os alunos"], ["predicado", "estão estudando"]]
+  },
+  {
+    "id": "passiva_analitica",
+    "texto": "As cartas foram escritas pelos alunos.",
+    "correto": true,
+    "diagnosticos": [],
+    "constituintes": [["auxiliar_verbal", "foram"], ["sujeito_paciente", "As cartas"], ["predicado", "foram escritas pelos alunos"], ["agente_da_passiva", "alunos"]]
+  },
+  {
+    "id": "subordinada_temporal",
+    "texto": "Quando chegou, Maria sorriu.",
+    "correto": true,
+    "diagnosticos": [],
+    "classes": [["Quando", "conjuncao"], ["chegou", "verbo"], ["Maria", "substantivo"], ["sorriu", "verbo"]]
+  },
+  {
+    "id": "duas_oracoes",
+    "texto": "Maria estudou e João descansou.",
+    "correto": true,
+    "diagnosticos": [],
+    "classes": [["estudou", "verbo"], ["e", "conjuncao"], ["descansou", "verbo"]]
+  },
+  {
+    "id": "paronimo_consultivo",
+    "texto": "Marquei a sessão para amanhã.",
+    "correto": true,
+    "diagnosticos": ["PARONIMO"]
+  }
+]

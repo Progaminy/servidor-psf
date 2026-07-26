@@ -1,0 +1,34 @@
+{
+  "id": "f0411baf5d2b",
+  "titulo": "Quem é você?",
+  "criado_em": "2026-07-13T01:16:09.446045+00:00",
+  "mensagens": [
+    {
+      "papel": "aluno",
+      "texto": "quem é você?",
+      "quando": "2026-07-13T01:16:09.506099+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Encontrei isto no índice total do projeto materializado. Não vou fingir que é resposta final; vou mostrar como registro bruto, sem apresentar o conhecimento como blocos antigos.\n\nFonte: índice total do projeto\nTipo: nucleo; score: 136\nTítulo: -*- coding: utf-8 -*-\n\nTrecho: PALAVRAS_TIPO = { 'autoidentidade': ('quem é você', 'quem es tu', 'quem te criou', 'quem ti criou', 'teu dono', 'dono', 'criador'), 'pendencia': ('pendente', 'pendentes', 'o que falta', 'falta melhorar', 'incompleto', 'lacuna'), 'problema_aberto': ('em aberto', 'conjectura', 'hipótese de riemann', 'p versus np', 'navier-stokes', 'goldbach'), 'meta_empirica': ('auc', 'recall', 'erro máximo', 'erro maximo', 'dados reais', 'teste real', 'validar'), 'formula': ('fórmula', 'formula', 'bhaskara', 'pitágoras', 'pitagoras', 'derivada', 'integral'), 'prova': ('prove', 'demonstre', 'prova', 'demonstrar', 'teorema'), 'aula': ('ensine', 'aula', 'explique', 'passo a passo'), 'comparacao': ('compare', 'co...\n\nPróximo passo PSF: transformar este trecho em conhecimento puro materializado, com conceito, dependências, teste e lacuna explícita se ele for usado.",
+      "quando": "2026-07-13T01:16:13.684221+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "ola",
+      "quando": "2026-07-13T01:31:34.657503+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Olá. Sou o PSF-IAminy. Estou pronto para responder em linguagem normal, procurar no índice local e dizer quando houver lacuna.",
+      "quando": "2026-07-13T01:31:34.661267+00:00"
+    }
+  ],
+  "estado": {
+    "estado_psf": null,
+    "contexto_chat_vivo": {
+      "ultimo_titulo": "-*- coding: utf-8 -*-",
+      "ultima_origem": "nucleo/cerebro_unico.py"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "decf79b3ce81",
+  "titulo": "Ola",
+  "criado_em": "2026-07-22T19:49:50.806246+00:00",
+  "mensagens": [
+    {
+      "papel": "aluno",
+      "texto": "ola",
+      "quando": "2026-07-22T19:49:50.816868+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Olá. Sou o PSF-IAminy. Estou pronto para responder em linguagem normal, procurar no índice local e dizer quando houver lacuna.",
+      "quando": "2026-07-22T19:49:50.831425+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "estas bem?",
+      "quando": "2026-07-22T19:50:07.254008+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-22T19:50:08.659064+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "quanto é 1 + 1",
+      "quando": "2026-07-22T19:50:36.742666+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Sei fazer juntar (pacote MAT-006). Apliquei: 1 + 1.\n\nConta armada, como no papel:\n  1\n+ 1\n---\n  2\n\nResposta: 2.\n\nConfiança: alta.\nFonte: ensino.resolvedor_exercicios.",
+      "quando": "2026-07-22T19:50:36.760679+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "5358 + 476532",
+      "quando": "2026-07-22T19:51:21.006063+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-22T19:51:21.051784+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "vai bti fuder, nao sabes fazer contas grandes bseu cao",
+      "quando": "2026-07-22T19:51:46.476989+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-22T19:51:46.495761+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "6 + 9",
+      "quando": "2026-07-22T19:51:56.388723+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-22T19:51:56.405629+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "5+4",
+      "quando": "2026-07-22T19:52:07.140459+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-22T19:52:07.156839+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "1+1",
+      "quando": "2026-07-22T19:52:13.541047+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "A soma comum 1+2+3+... diverge. O valor -1/12 aparece em regularização analítica, não como soma usual de números naturais.\n\nConfiança: alta.\nFonte: base de curiosidades (item 43: Números e Curiosidades Numéricas).",
+      "quando": "2026-07-22T19:52:13.546993+00:00"
+    },
+    {
+      "papel": "aluno",
+      "texto": "kkk",
+      "quando": "2026-07-22T19:52:22.268497+00:00"
+    },
+    {
+      "papel": "assistente",
+      "texto": "Não encontrei isto materializado na base canônica nem no índice local com confiança suficiente. Posso criar uma entrada nova para investigar, mas não vou fingir que já sei.",
+      "quando": "2026-07-22T19:52:22.284623+00:00"
+    }
+  ],
+  "estado": {
+    "estado_psf": null,
+    "contexto_chat_vivo": {
+      "ultimo_curiosidade_numero": 43,
+      "ultima_origem": "base de curiosidades item 43",
+      "ultimo_titulo": "Quanto é a soma de todos os números naturais resultado surpreendente -1/12?"
+    }
+  }
+}
